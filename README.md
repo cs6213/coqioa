@@ -1,5 +1,12 @@
 # CoqIOA
 
+## Note for CS6213
+
+This code compiles with Coq 8.11.2. Compilation of the case studies
+(e.g., `CounterNetworked.v`) takes quite some time.
+
+## Original Note
+
 Source code for [CoqIOA: A Formalization of IO Automata in the Coq Proof Assistant](coqioa.pdf).
 
 This repository represents a snapshot of ongoing work. If you're doing anything
