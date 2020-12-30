@@ -2,6 +2,8 @@
 
 ## Note for CS6213
 
+To compile the project, run `make` from the `src` folder.
+
 This code compiles with Coq 8.11.2. Compilation of the case studies
 (e.g., `CounterNetworked.v`) takes quite some time.
 
